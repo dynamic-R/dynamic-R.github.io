@@ -4,6 +4,8 @@ output:
   html_document
 --- 
 
+----
+
 ## Overview
 
 This page is intended to host a collection of didactic resources, related to dynamic (i.e. time-dependent) models with **R**.
