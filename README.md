@@ -7,17 +7,20 @@ This page is intended to host a collection of didactic resources, related to dyn
 
 ### Authors
 
-* https://github.com/karlines
-* https://github.com/tpetzoldt
+* [https://github.com/karlines]
+* [https://github.com/tpetzoldt]
 
 ## Projects
 
-### Contribution to the AEMON-J Workshop
+### Contribution to the DSOS/AEMON-J Virtual Workshop and Summit
 
-* Workshop page: https://aquaticdatasciopensci.github.io/
-* Numerical Modelling Day:
-    * Slides: https://dynamic-r.github.io/hacking-limnology/dynamic-intro.html
-    * Code: https://github.com/dynamic-R/hacking-limnology
+* Main Workshop page: [https://aquaticdatasciopensci.github.io/]
+
+### July 16 2021, Day 4: Numerical Modeling 
+
+* Workshop page https://aquaticdatasciopensci.github.io/day4-numericalmodeling/
+* Slides: [https://dynamic-r.github.io/hacking-limnology/dynamic-intro.html]
+* Source codes: [https://github.com/dynamic-R/hacking-limnology]
         
 
 
