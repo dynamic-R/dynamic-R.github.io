@@ -1,10 +1,3 @@
----
-title: dynamic-R.github.io
-output:
-  html_document
---- 
-
-----
 
 ![](https://aquaticdatasciopensci.github.io/assets/dsos_banner_website.png){width=50%}
 
