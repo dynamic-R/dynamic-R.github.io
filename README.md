@@ -1,5 +1,5 @@
 
-![](https://aquaticdatasciopensci.github.io/assets/dsos_banner_website.png){width=50%}
+![](https://aquaticdatasciopensci.github.io/assets/dsos_banner_website.png)
 
 
 * Contribution to the DSOS/AEMON-J Virtual Workshop and Summit
