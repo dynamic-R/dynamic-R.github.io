@@ -13,7 +13,7 @@ This page is intended to host a collection of didactic resources, related to
 dynamic (i.e. time-dependent) models with **R**.
 
 
-##  1. Contribution to the DSOS/AEMON-J Virtual Workshop
+##  Contribution to the DSOS/AEMON-J Virtual Workshop
 
 ### Official Workshop Web Pages
 
@@ -26,10 +26,6 @@ dynamic (i.e. time-dependent) models with **R**.
 * [Source code of slides](https://github.com/dynamic-R/hacking-limnology)
 * [**aubergine**](https://github.com/dynamic-R/aubergine) the tutorial package
 The package should work now and will get a last-minute update shortly before.
-        
-## 2. Reaction Transport Modelling in R
-
-* [R package RTM](https://github.com/dynamic-R/Reaction_Transport_Modelling)
 
 
 ### Authors
