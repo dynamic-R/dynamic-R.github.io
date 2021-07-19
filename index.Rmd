@@ -6,14 +6,12 @@ output:
 
 ----
 
-![](https://aquaticdatasciopensci.github.io/assets/dsos_banner_website.png){width=50%}
-
 
 This page is intended to host a collection of didactic resources, related to 
 dynamic (i.e. time-dependent) models with **R**.
 
 
-##  Contribution to the DSOS/AEMON-J Virtual Workshop
+##  1. Contribution to the DSOS/AEMON-J Virtual Workshop
 
 ### Official Workshop Web Pages
 
@@ -24,8 +22,18 @@ dynamic (i.e. time-dependent) models with **R**.
 
 * [Introductory slides](https://dynamic-r.github.io/hacking-limnology/)
 * [Source code of slides](https://github.com/dynamic-R/hacking-limnology)
-* [**aubergine**](https://github.com/dynamic-R/aubergine) the tutorial package
-The package should work now and will get a last-minute update shortly before.
+* [**aubergine**](https://github.com/dynamic-R/aubergine) package with 
+interactive tutorials.
+
+--- 
+
+## 2. Reaction Transport Modelling in R
+
+**Outlook:** Upcoming course on "Reaction Transport Modeling" by Karline Soetaert and Lubos Polerecky.
+
+The package is currently under development, more will come.
+
+* [R package RTM](https://github.com/dynamic-R/RTM)
 
 
 ### Authors
@@ -38,4 +46,4 @@ The package should work now and will get a last-minute update shortly before.
 
 ### Status
 
-work in progress, 2021-07-14
+work in progress, 2021-07-19
